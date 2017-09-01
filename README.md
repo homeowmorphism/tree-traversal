@@ -1,6 +1,6 @@
 # Tree Traversals
 
-*Status: meh, still working on things but this probably works.*
+*Status: meh, still working on things but the code probably works.*
 
 ## Example
 
